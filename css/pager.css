@@ -1,0 +1,37 @@
+.navigation {
+	text-align:center;
+}
+.navigation a,
+.navigation a:visited {
+	padding:5px 10px;
+	background-color:#fff;
+	border:1px solid #c5beaa;
+	margin:0px 3px;
+	color:#333;
+	font-size:16px;
+	text-decoration:none;
+	font-style:normal;
+}
+.navigation a:hover {
+	text-decoration:underline;
+	background-color:#c5beaa;
+}
+ul.yiiPager {
+	display:inline;
+	margin-right:10px;
+}
+ul.yiiPager li {
+	display:inline;
+	margin:0;
+}
+ul.yiiPager li.selected a {
+	background-color:#d5ceba;
+}
+ul.yiiPager li.first,
+ul.yiiPager li.last {
+	display:none;
+}
+ul.yiiPager li.previous,
+ul.yiiPager li.next {
+	display:inline;
+}

@@ -1,0 +1,188 @@
+body
+{
+	/* Font */
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+
+	/* Text color */
+	color: #333;
+
+	/* Remove the background color to make it transparent */
+	background-color: #fff;
+
+	margin: 20px;
+}
+
+.cke_editable
+{
+	font-size: 14px;
+	line-height: 1.6;
+}
+
+.cke_editable h2.exo
+{
+	text-align:center;
+	margin:25px 0;
+	color:#333333;
+	font-size:20px;
+	text-transform:uppercase;
+}
+
+.cke_editable img {
+	-webkit-box-shadow:0 0 5px 0 #464646;
+	   -moz-box-shadow:0 0 5px 0 #464646;
+			box-shadow:0 0 5px 0 #464646;
+}
+
+.cke_editable .note,
+.cke_editable .note-left,
+.cke_editable .note-right,
+.cke_editable .blockquote,
+.cke_editable .blockquote-left,
+.cke_editable .blockquote-right {
+	background:url('/images/ruler.png');
+	font-size:15px;
+	line-height:1.7em;
+	-webkit-box-shadow:0 0 5px 0 #464646;
+	   -moz-box-shadow:0 0 5px 0 #464646;
+			box-shadow:0 0 5px 0 #464646;
+}
+.cke_editable .note {
+	width:720px;
+	margin:20px 0;
+	padding:25px 30px;
+}
+.cke_editable .note-left {
+	float:left;
+	width:310px;
+	margin:10px 20px 10px 0;
+	padding:25px 30px;
+}
+.cke_editable .note-right {
+	float:right;
+	width:310px;
+	margin:10px 0 10px 20px;
+	padding:25px 30px;
+}
+.cke_editable .blockquote {
+	width:710px;
+	margin:20px 0;
+	padding:25px 30px 25px 40px;
+	font-style:italic;
+}
+.cke_editable .blockquote-left {
+	float:left;
+	width:300px;
+	margin:10px 20px 10px 0;
+	padding:25px 30px 25px 40px;
+	font-style:italic;
+}
+.cke_editable .blockquote-right {
+	float:right;
+	width:300px;
+	margin:10px 0 10px 20px;
+	padding:25px 30px 25px 40px;
+	font-style:italic;
+}
+.cke_editable .note:before,
+.cke_editable .note-left:before,
+.cke_editable .note-right:before {
+	position:absolute;
+	margin-top:-22px;
+	margin-left:-26px;
+	content:url('/images/snap.png');
+}
+.cke_editable .blockquote:before,
+.cke_editable .blockquote-left:before,
+.cke_editable .blockquote-right:before {
+	position:absolute;
+	margin-top:-15px;
+	margin-left:-34px;
+	content:url('/images/blockquote.png');
+}
+.cke_editable .blockquote span.cite,
+.cke_editable .blockquote-left span.cite,
+.cke_editable .blockquote-right span.cite {
+	display:block;
+	margin-top:10px;
+	font-style:normal;
+}
+.cke_editable .blockquote span.cite:before,
+.cke_editable .blockquote-left span.cite:before,
+.cke_editable .blockquote-right span.cite:before {
+	content: "\2014 \2009 \2009";
+}
+
+a
+{
+	color: #0782C1;
+}
+
+ol,ul,dl
+{
+	/* IE7: reset rtl list margin. (#7334) */
+	*margin-right: 0px;
+	/* preserved spaces for list items with text direction other than the list. (#6249,#8049)*/
+	padding: 0 40px;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-weight: normal;
+	line-height: 1.2;
+}
+
+hr
+{
+	border: 0px;
+	border-top: 1px solid #ccc;
+}
+
+img.right
+{
+	border: 1px solid #ccc;
+	float: right;
+	margin-left: 15px;
+	padding: 5px;
+}
+
+img.left
+{
+	border: 1px solid #ccc;
+	float: left;
+	margin-right: 15px;
+	padding: 5px;
+}
+
+pre
+{
+	white-space: pre-wrap; /* CSS 2.1 */
+	word-wrap: break-word; /* IE7 */
+}
+
+.marker
+{
+	background-color: Yellow;
+}
+
+span[lang]
+{
+   font-style: italic;
+}
+
+figure
+{
+	text-align: center;
+	border: solid 1px #ccc;
+	border-radius: 2px;
+	background: rgba(0,0,0,0.05);
+	padding: 10px;
+	margin: 10px 20px;
+	display: block; /* For IE8 */
+}
+
+figure figcaption
+{
+	text-align: center;
+	display: block; /* For IE8 */
+}

@@ -1,0 +1,618 @@
+2015/02/02 16:23:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/02 17:24:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/02 18:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "K-EKB.ru".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('K-EKB.ru')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/K-EKB.ru
+HTTP_REFERER=http://otpusk-ekb.ru/K-EKB.ru
+---
+2015/02/02 18:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin.php')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php
+---
+2015/02/02 18:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "administrator/index.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('administrator/i...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/administrator/index.php
+---
+2015/02/02 18:54:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-login.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wp-login.php')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-login.php
+---
+2015/02/02 19:04:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/02 19:04:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/02 19:04:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/02 20:14:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/02 21:49:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/02 23:36:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tourism/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tourism/favicon...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tourism/favicon.ico?28022014
+---
+2015/02/03 00:03:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/03 00:46:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/03 03:01:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "sys.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('sys.php')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sys.php
+---
+2015/02/03 04:52:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tourism/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tourism/favicon...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tourism/favicon.ico?28022014
+---
+2015/02/03 04:52:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "news/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('news/favicon.ic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/news/favicon.ico?28022014
+---
+2015/02/03 04:53:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/03 10:47:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+HTTP_REFERER=http://otpusk-ekb.ru/countries/azerbaidjan-36.html
+---
+2015/02/03 12:23:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+HTTP_REFERER=http://otpusk-ekb.ru/countries/aljir-39.html
+---
+2015/02/03 12:34:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/03 14:03:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "registration [PLM=0][R] GET http://otpusk-ekb.ru/registration [0,9306,12855] -> [R] POST http://otpusk-ekb.ru/registration [0,0,13087] -> [L] GET http://otpusk-ekb.ru/ [0,23966,27615] -> [L] POST http://otpusk-ekb.ru/authorization [20646,0,13399]".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('registration [P...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+HTTP_REFERER=http://otpusk-ekb.ru/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+---
+2015/02/03 14:03:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "registration [PLM=0][R] GET http://otpusk-ekb.ru/registration [0,9306,12855] -> [R] POST http://otpusk-ekb.ru/registration [0,0,13087] -> [L] GET http://otpusk-ekb.ru/ [0,23966,27615] -> [L] POST http://otpusk-ekb.ru/authorization [20646,0,13399]".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('registration [P...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+HTTP_REFERER=http://otpusk-ekb.ru/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+---
+2015/02/03 14:03:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "otpusk-ekb.ru/registration [0,9306,12855] -> [R] POST http://otpusk-ekb.ru/registration [0,0,13087] -> [L] GET http://otpusk-ekb.ru/ [0,23966,27615] -> [L] POST http://otpusk-ekb.ru/authorization [20646,0,13399]".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('otpusk-ekb.ru/r...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=//otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+HTTP_REFERER=http://otpusk-ekb.ru//otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+---
+2015/02/03 14:03:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "registration [PLM=0][R] GET http://otpusk-ekb.ru/registration [0,9306,12855] -> [R] POST http://otpusk-ekb.ru/registration [0,0,13087] -> [L] GET http://otpusk-ekb.ru/ [0,23966,27615] -> [L] POST http://otpusk-ekb.ru/authorization [20646,0,13399]".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('registration [P...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+HTTP_REFERER=http://otpusk-ekb.ru/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+---
+2015/02/03 14:03:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "otpusk-ekb.ru/registration [0,9306,12855] -> [R] POST http://otpusk-ekb.ru/registration [0,0,13087] -> [L] GET http://otpusk-ekb.ru/ [0,23966,27615] -> [L] POST http://otpusk-ekb.ru/authorization [20646,0,13399]".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('otpusk-ekb.ru/r...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=//otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+HTTP_REFERER=http://otpusk-ekb.ru//otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+---
+2015/02/03 17:22:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "news/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('news/favicon.ic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/news/favicon.ico?28022014
+---
+2015/02/03 17:22:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tourism/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tourism/favicon...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tourism/favicon.ico?28022014
+---
+2015/02/03 17:22:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/03 17:25:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tourism/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tourism/favicon...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tourism/favicon.ico?28022014
+HTTP_REFERER=http://otpusk-ekb.ru/tourism/soveti-turistam-v-oae-26.html
+---
+2015/02/03 19:49:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/03 19:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tourism/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tourism/favicon...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tourism/favicon.ico?28022014
+---
+2015/02/03 19:49:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "news/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('news/favicon.ic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/news/favicon.ico?28022014
+---
+2015/02/03 20:36:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+HTTP_REFERER=http://otpusk-ekb.ru/countries/barbados-50.html
+---
+2015/02/03 21:58:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "news/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('news/favicon.ic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/news/favicon.ico?28022014
+---
+2015/02/03 22:02:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/04 04:26:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/04 08:03:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+HTTP_REFERER=http://otpusk-ekb.ru/countries/avstraliya-35.html
+---
+2015/02/04 09:15:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tourism/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tourism/favicon...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tourism/favicon.ico?28022014
+---
+2015/02/04 09:15:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/04 09:15:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "news/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('news/favicon.ic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/news/favicon.ico?28022014
+---
+2015/02/04 10:04:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "registration [PLM=0][R] GET http://otpusk-ekb.ru/registration [0,9306,12855] -> [R] POST http://otpusk-ekb.ru/registration [0,0,13087] -> [L] GET http://otpusk-ekb.ru/ [0,23966,27615] -> [L] POST http://otpusk-ekb.ru/authorization [20646,0,13399]".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('registration [P...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+HTTP_REFERER=http://otpusk-ekb.ru/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]
+---
+2015/02/04 11:45:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "news/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('news/favicon.ic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/news/favicon.ico?28022014
+HTTP_REFERER=http://otpusk-ekb.ru/news/stoimost-aviabiletov-v-krim-doljna-bit-ne-vishe-7-130.html
+---
+2015/02/04 11:46:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/\/pages\/captcha".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/\\/pag...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/%5C/pages%5C/captcha?refresh=1
+HTTP_REFERER=http://otpusk-ekb.ru/%5C/pages%5C/captcha?refresh=1
+---
+2015/02/04 11:46:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "\/pages\/captcha".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\\/pages\\/captch...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%5C/pages%5C/captcha?refresh=1
+HTTP_REFERER=http://otpusk-ekb.ru/%5C/pages%5C/captcha?refresh=1
+---
+2015/02/04 11:46:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/\/pages\/captcha".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/\\/pag...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/%5C/pages%5C/captcha?refresh=1
+HTTP_REFERER=http://otpusk-ekb.ru/%5C/pages%5C/captcha?refresh=1
+---
+2015/02/04 11:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "\/pages\/captcha".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\\/pages\\/captch...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%5C/pages%5C/captcha?refresh=1
+HTTP_REFERER=http://otpusk-ekb.ru/%5C/pages%5C/captcha?refresh=1
+---
+2015/02/04 11:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/\/pages\/captcha".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/\\/pag...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/%5C/pages%5C/captcha?refresh=1
+HTTP_REFERER=http://otpusk-ekb.ru/%5C/pages%5C/captcha?refresh=1
+---
+2015/02/04 11:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "\/pages\/captcha".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\\/pages\\/captch...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%5C/pages%5C/captcha?refresh=1
+HTTP_REFERER=http://otpusk-ekb.ru/%5C/pages%5C/captcha?refresh=1
+---
+2015/02/04 11:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/\/pages\/captcha".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/\\/pag...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/%5C/pages%5C/captcha?refresh=1
+HTTP_REFERER=http://otpusk-ekb.ru/%5C/pages%5C/captcha?refresh=1
+---
+2015/02/04 11:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "\/pages\/captcha".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\\/pages\\/captch...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%5C/pages%5C/captcha?refresh=1
+HTTP_REFERER=http://otpusk-ekb.ru/%5C/pages%5C/captcha?refresh=1
+---
+2015/02/04 13:15:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "registration [PLM=0][R] GET http://otpusk-ekb.ru/registration [0,9306,12855] -> [R] POST http://otpusk-ekb.ru/registration [0,0,13087] -> [L] GET http://otpusk-ekb.ru/ [0,23966,27615] -> [L] POST http://otpusk-ekb.ru/authorization [20646,0,13399] Result: èñïîëüçîâàí íèêíåéì "Vietusabep"; âîøëè; íå íàøëîñü ôîðìû äëÿ îòïðàâêè;".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('registration [P...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]+Result:+%E8%F1%EF%EE%EB%FC%E7%EE%E2%E0%ED+%ED%E8%EA%ED%E5%E9%EC+%22Vietusabep%22;+%E2%EE%F8%EB%E8;+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8;
+HTTP_REFERER=http://otpusk-ekb.ru/registration+[PLM=0][R]+GET+http://otpusk-ekb.ru/registration+[0,9306,12855]+-%3E+[R]+POST+http://otpusk-ekb.ru/registration+[0,0,13087]+-%3E+[L]+GET+http://otpusk-ekb.ru/+[0,23966,27615]+-%3E+[L]+POST+http://otpusk-ekb.ru/authorization+[20646,0,13399]+Result:+%E8%F1%EF%EE%EB%FC%E7%EE%E2%E0%ED+%ED%E8%EA%ED%E5%E9%EC+%22Vietusabep%22;+%E2%EE%F8%EB%E8;+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8;
+---
+2015/02/04 13:16:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/04 15:29:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/04 18:05:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "K-EKB.ru".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('K-EKB.ru')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/K-EKB.ru
+HTTP_REFERER=http://otpusk-ekb.ru/K-EKB.ru
+---
+2015/02/04 22:09:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/04 22:09:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "news/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('news/favicon.ic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/news/favicon.ico?28022014
+---
+2015/02/04 22:09:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tourism/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tourism/favicon...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tourism/favicon.ico?28022014
+---
+2015/02/04 23:17:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/04 23:25:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+HTTP_REFERER=http://otpusk-ekb.ru/countries/avstraliya-35.html
+---
+2015/02/04 23:40:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-login.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wp-login.php')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-login.php
+---
+2015/02/04 23:40:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "administrator".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('administrator')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/administrator/
+---
+2015/02/04 23:40:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin.php')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php
+---
+2015/02/05 01:51:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/05 03:36:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "K-EKB.ru".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('K-EKB.ru')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/K-EKB.ru
+HTTP_REFERER=http://otpusk-ekb.ru/K-EKB.ru
+---
+2015/02/05 03:36:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "K-EKB.ru".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('K-EKB.ru')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/K-EKB.ru
+HTTP_REFERER=http://otpusk-ekb.ru/K-EKB.ru
+---
+2015/02/05 04:22:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/05 09:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/05 10:40:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "news/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('news/favicon.ic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/news/favicon.ico?28022014
+---
+2015/02/05 10:40:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "tourism/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tourism/favicon...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tourism/favicon.ico?28022014
+---
+2015/02/05 10:40:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "countries/favicon.ico".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('countries/favic...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countries/favicon.ico?28022014
+---
+2015/02/05 14:49:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-login.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wp-login.php')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wp-login.php
+---
+2015/02/05 14:49:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "administrator/index.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('administrator/i...')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/administrator/index.php
+---
+2015/02/05 14:49:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin.php".' in /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u22481/otpusk-ekb.ru/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin.php')
+#1 /home/u22481/otpusk-ekb.ru/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/u22481/otpusk-ekb.ru/www/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.php
+---
